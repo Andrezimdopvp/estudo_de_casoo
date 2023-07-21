@@ -1,0 +1,11 @@
+img {
+    width: 105px;
+}
+.test_image-and-result{
+    border-style: solid;
+    margin: 10px;
+    padding: 10px;
+}
+body{
+    background-color: blueviolet;
+}
